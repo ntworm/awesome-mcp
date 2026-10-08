@@ -21,7 +21,7 @@ Table of Contents:
     - [Design & Visualization](#design-&-visualization) (13)
     - [Knowledge & Memory](#knowledge-&-memory) (35)
     - [Agent Platforms](#agent-platforms) (45)
-    - [Media & Creativity](#media-&-creativity) (14)
+    - [Media & Creativity](#media-&-creativity) (15)
     - [Finance & Trading](#finance-&-trading) (9)
     - [Other MCP Servers](#other-mcp-servers) (58)
 - [MCP Clients](#mcp-clients)
@@ -347,6 +347,7 @@ Table of Contents:
 - [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) (599 JavaScript) - An MCP server that enables direct retrieval of transcripts from YouTube videos with multi-language support and robust error handling.
 - [marcelmarais/spotify-mcp-server](https://github.com/marcelmarais/spotify-mcp-server) (473 TypeScript) - A lightweight Model Context Protocol (MCP) server designed to enable AI assistants to control Spotify playback and manage playlists.
 - [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) (1582 Python) - MiniMax-MCP is the official MiniMax Model Context Protocol server enabling MCP clients to interact with advanced AI APIs for text-to-speech, voice cloning, image, and video generation.
+- [ntworm/ableton-mcp-server](https://github.com/ntworm/ableton-mcp-server) (3 Python) - Local MCP server for inspecting and automating Ableton Live, with MIDI editing, device control, audio analysis and groove tools.
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) (3342 Python) - DaVinci Resolve MCP Server is an MCP server that enables AI coding assistants like Cursor and Claude Desktop to control and query DaVinci Resolve through natural language commands.
 - [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) (614 Python) - spotify-mcp is an MCP server that connects large language models like Claude with Spotify, enabling playback control, music search, and playlist management through the Model Context Protocol.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) (2999 TypeScript) - Markdownify MCP Server is an MCP server that converts various file types and web content into Markdown format, enabling easy content sharing and management within the MCP ecosystem.
